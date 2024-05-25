@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV here : [Lihang Fan's CV](../assets/lihfan_CV.pdf)
-
 Education
 ======
 * Ph.D in Computer Science,Beihang University, 2018 - now
