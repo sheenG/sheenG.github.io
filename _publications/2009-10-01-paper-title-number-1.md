@@ -2,7 +2,6 @@
 title: "Enriching Recommendation Models with Logic Conditions"
 collection: publications
 permalink: /publication/sigmod-2024-ERMWLC
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024
 venue: 'Sigmod'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3617330'
