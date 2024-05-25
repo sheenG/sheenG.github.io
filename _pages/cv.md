@@ -9,56 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my CV here : [Lihang Fan's CV](../assets/lihfan_CV.pdf)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science,Beihang University, 2018 - now
+* B.S. in Information Management and Information Systems, Northwest A&F University, 2014 - 2018
+  * Thesis : 基于顶点划分的并行图再分割算法研究
+
+
+Honor
+======
+* National Scholarship, Ministry of Education (2016, 2017)
+* Bachelor's Thesis Award, Northwest A&F University (2018)
+* Presidetial Scholarship, Beihang University (2020)
+* Excellent Doctorial Student (2020)
+* Sigmod2024 Student Travel Award (2024)
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Intern, Shenzhen Institute of Computing Sciences, 2021 - now)
+  * Graph Pattern Mining
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* TA
+  * Big Data Management (2019) 
