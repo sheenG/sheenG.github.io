@@ -17,26 +17,6 @@ Education
   * Thesis : 基于顶点划分的并行图再分割算法研究
   * GPA: 3.8 / 4.00, Ranking: 1/318 (Top 1%)
 
-
-Honor
-======
-* Apr. 2024 ACM SIGMOD Student Support Scholarship Award
-* Nov. 2021 Outstanding Student Cadre Award, Beihang University
-* Oct. 2021 The First Prize Scholarship, Beihang University
-* Jan. 2021 Outstanding Graduate Student Award, Beihang University
-* Dec. 2020 President Scholarship for Graduate Students Award, Beihang University
-* Nov. 2020 Outstanding Student Cadre Award, Beihang University
-* Oct. 2020 The Second Prize Scholarship, Beihang University
-* Oct. 2019 The Second Prize Scholarship, Beihang University
-* Jun. 2018 Top 100 Outstanding Undergraduate Thesis Award, Northwest A&F University
-* Nov. 2017 **National Scholarship**
-* Nov. 2017 The First Prize Scholarship, Northwest A&F University
-* Nov.2017 Outstanding Student, Northwest A&F University
-* Nov. 2016 **National Scholarship**
-* Nov. 2016 The First Prize Scholarship, Northwest A&F University
-* Nov.2016 Outstanding Student, Northwest A&F University
-
-
 Work experience
 ======
 * Research Intern, Shenzhen Institute of Computing Sciences, Mar.2021 - Oct.2024)
@@ -70,6 +50,28 @@ Work experience
 **Tech Stack**: Python/PyTorch (sequential recommendation), C++ (subgraph matching), LSTM/Transformer, contrastive learning
 
 **Deployment**: Under submission VLDB 2025.
+
+
+
+Honor
+======
+* Apr. 2024 ACM SIGMOD Student Support Scholarship Award
+* Nov. 2021 Outstanding Student Cadre Award, Beihang University
+* Oct. 2021 The First Prize Scholarship, Beihang University
+* Jan. 2021 Outstanding Graduate Student Award, Beihang University
+* Dec. 2020 President Scholarship for Graduate Students Award, Beihang University
+* Nov. 2020 Outstanding Student Cadre Award, Beihang University
+* Oct. 2020 The Second Prize Scholarship, Beihang University
+* Oct. 2019 The Second Prize Scholarship, Beihang University
+* Jun. 2018 Top 100 Outstanding Undergraduate Thesis Award, Northwest A&F University
+* Nov. 2017 **National Scholarship**
+* Nov. 2017 The First Prize Scholarship, Northwest A&F University
+* Nov.2017 Outstanding Student, Northwest A&F University
+* Nov. 2016 **National Scholarship**
+* Nov. 2016 The First Prize Scholarship, Northwest A&F University
+* Nov.2016 Outstanding Student, Northwest A&F University
+
+
 
 Services
 ======
