@@ -12,6 +12,7 @@ I am a Ph.D student in [Beihang University, The School of Computer Science and E
 
 ### Research Interest
 I have broad interest in
-* Recommendation Systems (Logic Rule-Enhanced Recommendations, Explaining GNN-based Recommendations, Sequential Recommendations)* Graph Data Mining (Graph Neural Networks, Subgraph Pattern Mining, Knowledge Graphs) 
-* Logic Reasoning and Machine Learning (Graph Association Rules, Rule Discovery)
+* **Recommendation Systems** (Logic Rule-Enhanced Recommendations, Explaining GNN-based Recommendations, Sequential Recommendations)
+* **Graph Data Mining** (Graph Neural Networks, Subgraph Pattern Mining, Knowledge Graphs) 
+* **Logic Reasoning and Machine Learning** (Graph Association Rules, Rule Discovery)
 
