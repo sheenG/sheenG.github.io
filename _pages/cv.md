@@ -34,22 +34,22 @@ Work experience
 * **Deployment**: SIGMOD 2023. Implemented in AIRec Recommendation platform. https://airec.grandhoo.com/
 
 ### 2. Graph Neural Networks and Explainable Recommendation Systems
-**Project Overview**:Makex, a logic approach to explaining why a GNN-based model M (𝑥, 𝑦) recommends item 𝑦 to user 𝑥，providing both global and local explanations for recommendations.
+* **Project Overview**:Makex, a logic approach to explaining why a GNN-based model M (𝑥, 𝑦) recommends item 𝑦 to user 𝑥，providing both global and local explanations for recommendations.
 
-**Technical Approach**: (1) Proposed Rules for ExPlanations (REPs) defined by dual-star graph patterns and dependency, revealing the topological and feature conditions for recommendations. (2) Implemented a GNN-guided algorithm using Monte Carlo Tree Search (MCTS) to discover REPs and generate global explanations. (3) Utilized the 1-WL test to explain GNN behaviors, ensuring faithfulness to GNN predictions, achieving 32% higher recognizability and 42% higher reliability in global explanations compared to baselines. (4) Developed a Top-k algorithm for local explanations, the fidelity and sparsity of its top-1 explanation are 0.893 and 0.00225% on average, 80.62% and 3 orders of magnitude better than the baselines, respectively. It takes only 0.38s to generate top-1 explanation on large graphs, 75.8X faster than baselines on average.
+* **Technical Approach**: (1) Proposed Rules for ExPlanations (REPs) defined by dual-star graph patterns and dependency, revealing the topological and feature conditions for recommendations. (2) Implemented a GNN-guided algorithm using Monte Carlo Tree Search (MCTS) to discover REPs and generate global explanations. (3) Utilized the 1-WL test to explain GNN behaviors, ensuring faithfulness to GNN predictions, achieving 32% higher recognizability and 42% higher reliability in global explanations compared to baselines. (4) Developed a Top-k algorithm for local explanations, the fidelity and sparsity of its top-1 explanation are 0.893 and 0.00225% on average, 80.62% and 3 orders of magnitude better than the baselines, respectively. It takes only 0.38s to generate top-1 explanation on large graphs, 75.8X faster than baselines on average.
 
-**Tech Stack**: Python/PyTorch (GNNs), C++ (subgraph matching), MCTS, 1-WL test
+* **Tech Stack**: Python/PyTorch (GNNs), C++ (subgraph matching), MCTS, 1-WL test
 
-**Deployment**: VLDB 2024. Implemented in MedHunter AI Drug Discovery Platform. https://medhunter.grandhoo.com/
+* **Deployment**: VLDB 2024. Implemented in MedHunter AI Drug Discovery Platform. https://medhunter.grandhoo.com/
 
 ### 3. Graph Data Mining and Logic-Driven Sequential Recommendation
-**Project Overview**: LDSRec, a novel framework that integrates logic rules with sequential recommendation models by representation learning to capture users' short-term behaviors and long-term preferences.
+* **Project Overview**: LDSRec, a novel framework that integrates logic rules with sequential recommendation models by representation learning to capture users' short-term behaviors and long-term preferences.
 
-**Technical Approach**: (1) Defined SEquential Rules (SERs) that combine sequential graph patterns with logic preconditions, enabling polynomial-time representation learning. (2) Transformed user behavior sequences into a global heterogeneous graph, maintaining strict temporal order via path-centric subsequence division, and item co-occurrence dependencies, and capturing high-order dependencies through correlated interaction paths. (3) Combined SER-guided embeddings with original model outputs, optimized via contrastive learning to align logic rules with latent user interest representations. The model was further optimized using a loss function that integrates logic-driven contributions.
+* **Technical Approach**: (1) Defined SEquential Rules (SERs) that combine sequential graph patterns with logic preconditions, enabling polynomial-time representation learning. (2) Transformed user behavior sequences into a global heterogeneous graph, maintaining strict temporal order via path-centric subsequence division, and item co-occurrence dependencies, and capturing high-order dependencies through correlated interaction paths. (3) Combined SER-guided embeddings with original model outputs, optimized via contrastive learning to align logic rules with latent user interest representations. The model was further optimized using a loss function that integrates logic-driven contributions.
 
-**Tech Stack**: Python/PyTorch (sequential recommendation), C++ (subgraph matching), LSTM/Transformer, contrastive learning
+* **Tech Stack**: Python/PyTorch (sequential recommendation), C++ (subgraph matching), LSTM/Transformer, contrastive learning
 
-**Deployment**: Under submission VLDB 2025.
+* **Deployment**: Under submission VLDB 2025.
 
 
 
