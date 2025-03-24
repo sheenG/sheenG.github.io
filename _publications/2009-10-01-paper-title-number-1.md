@@ -2,7 +2,7 @@
 title: "Enriching Recommendation Models with Logic Conditions"
 collection: publications
 permalink: /publication/sigmod-2024-ERMWLC
-date: 2024-05-01
+date: 2009-10-01
 venue: 'Sigmod'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3617330'
 authors: 
